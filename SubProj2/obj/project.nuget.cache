@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AtYnE7/e2/d0s4MIMcUZ+/qo+FP5uT8PIwHP31IK+N7U1RB27Ypm7PUo7BJGX9TrNThp7zEEPgh/HQpb5zYqWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ssarker\\Documents\\Codebase\\TestAssemblyContextCollection\\SubProj2\\SubProj2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssarker\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ssarker\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

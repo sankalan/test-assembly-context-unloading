@@ -1,0 +1,9 @@
+C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\ClassLibrary1\bin\Debug\netstandard2.0\win\SubProj1.deps.json
+C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\ClassLibrary1\bin\Debug\netstandard2.0\win\SubProj1.dll
+C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\ClassLibrary1\bin\Debug\netstandard2.0\win\SubProj1.pdb
+C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\ClassLibrary1\obj\Debug\netstandard2.0\win\SubProj1.csprojAssemblyReference.cache
+C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\ClassLibrary1\obj\Debug\netstandard2.0\win\SubProj1.csproj.CoreCompileInputs.cache
+C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\ClassLibrary1\obj\Debug\netstandard2.0\win\SubProj1.AssemblyInfoInputs.cache
+C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\ClassLibrary1\obj\Debug\netstandard2.0\win\SubProj1.AssemblyInfo.cs
+C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\ClassLibrary1\obj\Debug\netstandard2.0\win\SubProj1.dll
+C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\ClassLibrary1\obj\Debug\netstandard2.0\win\SubProj1.pdb

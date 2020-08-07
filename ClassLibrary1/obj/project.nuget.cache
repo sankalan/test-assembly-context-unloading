@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4yxjOFASTY5NHVwDO90ulfsyDfRL2Ve2eq41Es70YrsME1VquaprATCNZXOFd8UJDZjLNMfAHTsFiVum9D+kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ssarker\\Documents\\Codebase\\TestAssemblyContextCollection\\ClassLibrary1\\SubProj1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssarker\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
