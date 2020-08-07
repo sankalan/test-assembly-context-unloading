@@ -1,9 +1,0 @@
-C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\Common\bin\Release\netstandard2.0\Common.deps.json
-C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\Common\bin\Release\netstandard2.0\Common.dll
-C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\Common\bin\Release\netstandard2.0\Common.pdb
-C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\Common\obj\Release\netstandard2.0\Common.csprojAssemblyReference.cache
-C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\Common\obj\Release\netstandard2.0\Common.csproj.CoreCompileInputs.cache
-C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\Common\obj\Release\netstandard2.0\Common.AssemblyInfoInputs.cache
-C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\Common\obj\Release\netstandard2.0\Common.AssemblyInfo.cs
-C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\Common\obj\Release\netstandard2.0\Common.dll
-C:\Users\ssarker\Documents\Codebase\TestAssemblyContextCollection\Common\obj\Release\netstandard2.0\Common.pdb
