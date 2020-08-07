@@ -10,7 +10,7 @@ This projects demonstrates that even if there is a strong reference to an assemb
 
 This should throw an exception.
 
-4. Now uncomment `Line#37` of Program.cs in `TestAssemblyContextCollection` project.
+4. Now uncomment `Line#37` of Program.cs in `TestAssemblyContextCollection` project (https://github.com/sankalan/test-assembly-context-unloading/blob/develop/TestAssemblyContextCollection/Program.cs#L37).
 5. Re-run the project, this time it should complete successfully.
 
 ## What's happening
